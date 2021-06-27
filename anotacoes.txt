@@ -1,0 +1,38 @@
+Pahgina para download  
+https://git-scm.com/
+
+configurar
+git config user.name "nome"
+git config user.email "email"
+
+verificar configuração
+git config user.name
+git config user.email
+
+iniciar um repositorio  
+git init
+
+verificar status
+git status
+
+verificar log
+git logs
+
+para adicionar arquivos
+git add  arquivo 
+git add .  --> adiciona todos os arquivos
+
+para salvar arquivo no repositorio local
+git commit -m "Iniciando o projeto"  
+
+obs também pode ser feito um arquivo só
+git commit anotacoes.txt -m "commit de um arquivo"
+
+passos para atualizar o github
+git branch -M main
+git remote add origin https://github.com/Laercio0110/Udemy_Git.git
+git push -u origin main
+
+para receber atualizações do github
+git pull
+
