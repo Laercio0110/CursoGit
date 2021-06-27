@@ -36,3 +36,6 @@ git push -u origin main
 para receber atualizações do github
 git pull
 
+para clonar o repositorio
+git clone https://github.com/Laercio0110/CursoGit.git  --> criar uma pasta automatico com o nome do repositorio
+git clone https://github.com/Laercio0110/CursoGit.git .  --> clona na pasta atual

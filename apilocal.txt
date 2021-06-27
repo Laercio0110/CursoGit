@@ -1,0 +1,1 @@
+Senha da api não deve ser enviada ao git
