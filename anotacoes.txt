@@ -39,3 +39,20 @@ git pull
 para clonar o repositorio
 git clone https://github.com/Laercio0110/CursoGit.git  --> criar uma pasta automatico com o nome do repositorio
 git clone https://github.com/Laercio0110/CursoGit.git .  --> clona na pasta atual
+
+para voltar um arquivo à situação do repositorio
+git checkout index.html
+
+para não enviar arquivo ao github criar o arquivo .gitignore
+
+para reset da branch , voltar ao ultimo commit
+git reset --hard origin/main
+
+para visualizar a lista de branch
+git branch
+
+para criar uma branch
+git branch page_hme
+
+para mudar de branch
+git checkout page_home
